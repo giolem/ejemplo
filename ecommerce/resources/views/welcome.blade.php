@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Primera modificación para GIT
                 </div>
 
                 <div class="links">
